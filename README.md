@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family:'Fira Code'">
+<h1 align="center">
   <a href="https://github.com/Aravind-Sathesh"  style="color:#1e90ff">
     Aravind Sathesh
     </a>
@@ -15,7 +15,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/aravindsathesh/"><img width="32px" alt="Instagram" title="Aravind's Instagram" src="./png/instagram.png"></a>
 </p>
-
+<br/><br/>
+<h2 align="center" >Coding Languages/Frameworks</h2>
+<br/><br/>
 <p align="center"> 
 
 <img src="./svg/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
