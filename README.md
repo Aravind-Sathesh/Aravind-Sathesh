@@ -16,20 +16,28 @@
   <a href="https://www.instagram.com/aravindsathesh/"><img width="32px" alt="Instagram" title="Aravind's Instagram" src="./png/instagram.png"></a>
 </p>
 
-<p align="center">
-<img src="./svg/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
- 
-<img src="./svg/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-   
-<img src="./svg/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+<p align="center"> 
+
+<img src="./svg/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
 
 <img src="./svg/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-   
+
+<img src="./svg/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+
+<img src="./svg/mysql.svg" alt="mysql" style="vertical-align:top; margin:6px 4px">
+</p>
+
+<p align="center">
+
 <img src="./svg/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  
-<img src="./svg/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  
-<img src="./svg/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+   
+<img src="./svg/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
   
 <img src="./svg/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
-</p> 
+  
+<img src="./svg/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  
+<img src="./svg/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+
+</p>
+
