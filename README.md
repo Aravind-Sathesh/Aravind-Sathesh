@@ -26,6 +26,8 @@
 
 <img src="./svg/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
 
+<img src="./svg/c.svg" alt="c" style="vertical-align:top; margin:6px 4px">
+
 <img src="./svg/mysql.svg" alt="mysql" style="vertical-align:top; margin:6px 4px">
 </p>
 
