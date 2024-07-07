@@ -44,4 +44,9 @@
 <img src="./svg/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
 
 </p>
-
+<br/><br/>
+<p align="center">
+<a href="https://github.com/Aravind-Sathesh?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravind-sathesh&layout=compact&theme=dark&exclude_repo=Computer-Project-XII" />
+</a>
+</p>
