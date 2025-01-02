@@ -55,7 +55,7 @@
 <p align="center">
   
 <a href="https://github.com/Aravind-Sathesh?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravind-sathesh&layout=compact&theme=dark&exclude_repo=Computer-Project-XII" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravind-sathesh&layout=compact&theme=dark&langs_count=6" />
 </a>
 
 </p>
