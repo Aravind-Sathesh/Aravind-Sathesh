@@ -52,10 +52,15 @@
 </a>
 <br/><br/>
 
+</p>
+
+
 <h2 align="center">Contributions</h2>
 
 <br/><br/>
-<img src="https://raw.githubusercontent.com/aravind-sathesh/aravind-sathesh/output/snake.svg" alt="Snake animation" />
 
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/aravind-sathesh/aravind-sathesh/output/snake.svg" alt="Snake animation" onerror="this.src='./snake.svg'" />
 
 </p>
