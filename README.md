@@ -50,5 +50,12 @@
 <a href="https://github.com/Aravind-Sathesh?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravind-sathesh&layout=compact&theme=dark&langs_count=6" />
 </a>
+<br/><br/>
+
+<h2 align="center">Contributions</h2>
+
+<br/><br/>
+<img src="https://raw.githubusercontent.com/aravind-sathesh/aravind-sathesh/output/snake.svg" alt="Snake animation" />
+
 
 </p>
