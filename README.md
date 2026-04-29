@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Aravind-Sathesh/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;5%2B%20years%20of%20coding%20experience;DSA%20Specialist&font=Fira%20Code&center=true&width=440&height=45&color=1e90ff&vCenter=true&pause=500&size=22"" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer;7%2B%20years%20of%20coding%20experience;Pupil%20-%20Codeforces%20&font=Fira%20Code&center=true&width=440&height=45&color=1e90ff&vCenter=true&pause=500&size=22"" /></a>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/aravind-sathesh/"><img width="32px" alt="LinkedIn" title="Aravind's LinkedIn" src="./png/linkedin.png"/></a>
@@ -51,7 +51,7 @@
 <p align="center">
   
 <a href="https://github.com/Aravind-Sathesh?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravind-sathesh&layout=compact&theme=dark&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravind-sathesh&layout=compact&theme=dark&langs_count=6&show_icons=true" />
 </a>
 <br/><br/>
 
